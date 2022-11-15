@@ -1,0 +1,24 @@
+body {
+  font-family: Gill Sans, sans-serif;
+  background-color: cyan;
+  text-align: center;
+}
+
+p {
+  font-size: 1.25em;
+  text-align: center;
+  margin-left: auto;
+  margin-right: auto;
+  width: 100ch;
+}
+
+a {
+  text-decoration: none;
+  color: blue;
+  background-color: lavender;
+  padding: 10px;  
+}
+
+.back {
+  margin: 40px;
+}
